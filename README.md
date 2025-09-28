@@ -2,6 +2,8 @@
 
 This is a project completed for the "Introduction to Data Science" course investigating the factors that lead to higher or lower movie ratings based on the TMDB movie database. It was a group project made by me and my fellow classnames (names listed in the report) and I played a key role in each step from the brainstorming, to the coding, to the analysis.
 
+*The RMD file code and pdf knit can be found in the "analysis & report" folder.*
+
 An introduction to this project, per our report:
 
 ## Motivating Questions and Scope of Analysis
